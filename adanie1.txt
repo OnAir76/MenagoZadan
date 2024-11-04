@@ -1,0 +1,4 @@
+Zadanie 1|Opis zadania 1|2024-11-01|False
+Zadanie 2|Opis zadania 2|2024-11-05|True
+Zadanie Priorytetowe 1|Opis priorytetowego zadania|2024-11-10|False|Wysoki
+Zadanie Regularne 1|Opis regularnego zadania|2024-11-15|False|Co tydzien
